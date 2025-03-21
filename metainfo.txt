@@ -1,10 +1,10 @@
-Name of Quantlet: sent-vol-network
+Name of Quantlet: sent-spillover
 
 Published in: under review
 
-Description: Performs a quantitative analysis of the impact of investors' sentiment on the volatility networks in financial markets
+Description: Performs a quantitative analysis of the impact of investors' sentiment on the systemic risk and tail risk spillover
 
-Keywords: investors' sentiment, volatility, volatility network, network regression, US financial markets
+Keywords: investors' sentiment, connectedness, network regression, US financial markets, tail risk
 
 Author: Dan Anghel and Petre Caraiani
 
